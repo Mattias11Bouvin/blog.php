@@ -1,0 +1,11 @@
+posts-tbl { 
+	border-collapse: collapse; 
+	margin-bottom: 40px
+}
+
+#posts-tbl tr,
+#posts-tbl td,
+#posts-tbl th {
+	border: 1px solid blue;
+	padding: 10px;
+}
